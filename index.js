@@ -1,4 +1,1 @@
-import { AppRegistry } from 'react-native';
-import App from './src/App';
-
-AppRegistry.registerComponent('ChitChat', () => App);
+import App from './src/app';
